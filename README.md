@@ -2,7 +2,7 @@
 
 An AzerothCore module that adds **Runic Enhancements (runes)** to a Conquest of Azeroth (CoA) server: items that change how existing spells and abilities work. It is written for CoA's AzerothCore fork and runs on both a normal CoA realm and a Wildcard (classless, level 60) realm. **No client patch is needed.**
 
-Inspired by the Legendary Runic Enhancements on GrimfallWoW. All code, names and values here are original.
+Inspired by the Legendary Runic Enhancements on Grimfall. All code and values here are original.
 
 ## Runes
 
