@@ -1,0 +1,11 @@
+# Build output and editor files
+build/
+*.obj
+*.pdb
+*.exe
+*.dll
+.vs/
+.vscode/
+*.user
+Thumbs.db
+.DS_Store
